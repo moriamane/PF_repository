@@ -21,10 +21,10 @@
 休日前夜
 
 ## 設計書
-https://docs.google.com/spreadsheets/d/1sJFeg-JmkzF5S9L3oNvy_cWvsHndg9EBihVlbPap8HI/edit#gid=0
+
 
 ## チャレンジ要素一覧
-https://docs.google.com/spreadsheets/d/1pOLfdY2LT1ddohg21eJs5P3sA6-7VAbIF81Kl6fAeAI/edit#gid=0
+https://docs.google.com/spreadsheets/d/1sJFeg-JmkzF5S9L3oNvy_cWvsHndg9EBihVlbPap8HI/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
